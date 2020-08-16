@@ -1,0 +1,19 @@
+{
+  "name": "ethereal/card-game-dev",
+  "description": "",
+  "license": "MIT",
+  "readme": "https://github.com/ethereal97/card-game-dev/tree/master/README.md",
+  "homepage": "https://github.com/ethereal97/card-game-dev.git",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Ethereal\\": "src/Ethereal/"
+    },
+    "files": [
+      "src/Ethereal/helper.php"
+    ]
+  }
+}

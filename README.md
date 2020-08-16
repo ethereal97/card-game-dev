@@ -1,5 +1,11 @@
 # Card Game Development Project
 
+## Requirements
+
+- php (version 7.2 and above)
+- git
+- composer
+
 ## Installation
 
 ```bash
