@@ -6,3 +6,6 @@ package-lock.json
 node_modules/
 
 .php_cs.cache
+/vendor
+composer.lock
+.env
