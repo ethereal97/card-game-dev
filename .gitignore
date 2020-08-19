@@ -5,7 +5,6 @@ vendor/
 package-lock.json
 node_modules/
 
+# others
 .php_cs.cache
-/vendor
-composer.lock
 .env
